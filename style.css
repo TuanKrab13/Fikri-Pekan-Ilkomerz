@@ -1,0 +1,63 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #F8F0E5;
+}
+body {
+    margin: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+body img {
+    border-radius: 50%;
+}
+.logo {
+    font-size: 30px;
+    font-weight: 500;
+    color: black;
+    font-family: 'Permanent Marker', sans-serif;
+    display: flex;
+    width: 100%;
+}
+.logo a {
+    text-decoration: none;
+    color: black;
+}
+.tentang {
+    display: flex;
+    text-align: justify;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.halo {
+    font-size: 37px;
+}
+.bx {
+    font-size: 60px;
+}
+.icon {
+    display: flex;
+    flex-direction: row;
+}
+.kenalin {
+    font-size: 20px;
+}
+.wa a i {
+    display: flex;
+    color: #128C7E;
+}
+.ig a i {
+    display: flex;
+    color: black;
+}
+.follow h2 {
+    display: flex;
+    font-size: 35px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
